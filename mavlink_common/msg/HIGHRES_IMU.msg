@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.861703
+# Automatically Generated in 2014-07-26 23:33:28.272962
 # MESSAGE: HIGHRES_IMU
 # Description:The IMU readings in SI units in NED body frame
 uint8 ID = 105

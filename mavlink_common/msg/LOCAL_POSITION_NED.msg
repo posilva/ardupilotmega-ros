@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.859485
+# Automatically Generated in 2014-07-26 23:33:28.270322
 # MESSAGE: LOCAL_POSITION_NED
 # Description:The filtered local position (e.g. fused computer vision and accelerometers). Coordinate frame is right-handed, Z-axis down (aeronautical frame, NED / north-east-down convention)
 uint8 ID = 32

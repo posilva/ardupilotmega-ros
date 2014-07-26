@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.862219
+# Automatically Generated in 2014-07-26 23:33:28.273576
 # MESSAGE: DEBUG
 # Description:Send a debug value. The index is used to discriminate between values. These values show up in the plot of QGroundControl as DEBUG N.
 uint8 ID = 254

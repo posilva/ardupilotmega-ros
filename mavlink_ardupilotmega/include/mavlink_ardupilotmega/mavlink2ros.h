@@ -1,4 +1,4 @@
-// Automatically Generated in 2014-07-26 21:31:17.877532
+// Automatically Generated in 2014-07-26 23:33:28.276482
 #ifndef MAVLINK_ARDUPILOTMEGA_MAVLINK2ROS_H
 #define MAVLINK_ARDUPILOTMEGA_MAVLINK2ROS_H
 #include <mavlink_common/HEARTBEAT.h>

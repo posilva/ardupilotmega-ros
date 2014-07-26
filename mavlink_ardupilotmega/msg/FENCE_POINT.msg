@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.876586
+# Automatically Generated in 2014-07-26 23:33:28.275336
 # MESSAGE: FENCE_POINT
 # Description:A fence point. Used to set a point when from
 #	      GCS -> MAV. Also used to return a point from MAV -> GCS

@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.858915
+# Automatically Generated in 2014-07-26 23:33:28.269638
 # MESSAGE: SET_MODE
 # Description:Set the system mode, as defined by enum MAV_MODE. There is no target component id as the mode is by definition for the overall aircraft, not only for one component.
 uint8 ID = 11

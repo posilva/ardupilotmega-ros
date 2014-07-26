@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.848948
+# Automatically Generated in 2014-07-26 23:33:28.269102
 # MESSAGE: HEARTBEAT
 # Description:The heartbeat message shows that a system is present and responding. The type of the MAV and Autopilot hardware allow the receiving system to treat further messages from this system appropriate (e.g. by laying out the user interface based on the autopilot).
 uint8 ID = 0

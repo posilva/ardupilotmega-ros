@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.861661
+# Automatically Generated in 2014-07-26 23:33:28.272913
 # MESSAGE: VICON_POSITION_ESTIMATE
 uint8 ID = 104
 uint8 sysid

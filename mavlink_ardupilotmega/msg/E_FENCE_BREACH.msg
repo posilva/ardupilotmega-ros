@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1048500>
+# Automatically Generated in <function get_timestamp at 0x2594500>
 # ENUM: E_FENCE_BREACH
 # No last fence breach
 uint8 E_FENCE_BREACH_NONE = 0

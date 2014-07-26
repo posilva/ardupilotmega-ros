@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.860193
+# Automatically Generated in 2014-07-26 23:33:28.271138
 # MESSAGE: SET_GPS_GLOBAL_ORIGIN
 # Description:As local waypoints exist, the global MISSION reference allows to transform between the local coordinate frame and the global (GPS) coordinate frame. This can be necessary when e.g. in- and outdoor settings are connected and the MAV should move from in- to outdoor.
 uint8 ID = 48

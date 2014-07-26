@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1048500>
+# Automatically Generated in <function get_timestamp at 0x2594500>
 # ENUM: E_MAV_MODE_FLAG_DECODE_POSITION
 # Description:These values encode the bit positions of the decode position. These values can be used to read the value of a flag bit by combining the base_mode variable with AND with the flag position value. The result will be either 0 or 1, depending on if the flag is set or not.
 # First bit:  10000000

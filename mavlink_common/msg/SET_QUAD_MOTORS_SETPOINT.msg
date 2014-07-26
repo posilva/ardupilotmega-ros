@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.860701
+# Automatically Generated in 2014-07-26 23:33:28.271770
 # MESSAGE: SET_QUAD_MOTORS_SETPOINT
 # Description:Setpoint in the four motor speeds
 uint8 ID = 60

@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.861534
+# Automatically Generated in 2014-07-26 23:33:28.272763
 # MESSAGE: GLOBAL_VISION_POSITION_ESTIMATE
 uint8 ID = 101
 uint8 sysid

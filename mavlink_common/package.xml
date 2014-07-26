@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>mavlink_common</name>
-    <version>0.1.8</version>
+    <version>0.1.10</version>
     <description>Mavlink generated messages for package mavlink_common</description>
     <maintainer email="posilva@gmail.com">Pedro Marque da Silva</maintainer>
     <license>MIT</license>

@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.860444
+# Automatically Generated in 2014-07-26 23:33:28.271442
 # MESSAGE: SAFETY_SET_ALLOWED_AREA
 # Description:Set a safety zone (volume), which is defined by two corners of a cube. This message can be used to tell the MAV which setpoints/MISSIONs to accept and which to reject. Safety areas are often enforced by national or competition regulations.
 uint8 ID = 54

@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1048500>
+# Automatically Generated in <function get_timestamp at 0x2594500>
 # ENUM: E_MAV_MODE_FLAG
 # Description:These flags encode the MAV mode.
 # 0b10000000 MAV safety set to armed. Motors are enabled / running / can start. Ready to fly.

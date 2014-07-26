@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1048500>
+# Automatically Generated in <function get_timestamp at 0x2594500>
 # ENUM: E_MAV_SEVERITY
 # Description:Indicates the severity level, generally used for status messages to indicate their relative urgency. Based on RFC-5424 using expanded definitions at: http://www.kiwisyslog.com/kb/info:-syslog-message-levels/.
 # System is unusable. This is a "panic" condition.

@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.859128
+# Automatically Generated in 2014-07-26 23:33:28.269899
 # MESSAGE: GPS_RAW_INT
 # Description:The global position, as returned by the Global Positioning System (GPS). This is
 #                NOT the global position estimate of the sytem, but rather a RAW sensor value. See message GLOBAL_POSITION for the global position estimate. Coordinate frame is right-handed, Z-axis up (GPS frame).

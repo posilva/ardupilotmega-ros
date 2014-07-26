@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.876717
+# Automatically Generated in 2014-07-26 23:33:28.275488
 # MESSAGE: AHRS
 # Description:Status of DCM attitude estimator
 uint8 ID = 163

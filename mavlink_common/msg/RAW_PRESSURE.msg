@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.859309
+# Automatically Generated in 2014-07-26 23:33:28.270116
 # MESSAGE: RAW_PRESSURE
 # Description:The RAW pressure readings for the typical setup of one absolute pressure and one differential pressure sensor. The sensor values should be the raw, UNSCALED ADC values.
 uint8 ID = 28

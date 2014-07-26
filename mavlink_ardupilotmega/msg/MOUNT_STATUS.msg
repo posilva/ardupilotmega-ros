@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.876543
+# Automatically Generated in 2014-07-26 23:33:28.275283
 # MESSAGE: MOUNT_STATUS
 # Description:Message with some status from APM to GCS about camera or antenna mount
 uint8 ID = 158

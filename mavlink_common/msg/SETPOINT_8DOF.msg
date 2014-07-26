@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.861926
+# Automatically Generated in 2014-07-26 23:33:28.273225
 # MESSAGE: SETPOINT_8DOF
 # Description:Set the 8 DOF setpoint for a controller.
 uint8 ID = 148

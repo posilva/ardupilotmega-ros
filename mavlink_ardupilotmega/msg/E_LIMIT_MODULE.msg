@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1048500>
+# Automatically Generated in <function get_timestamp at 0x2594500>
 # ENUM: E_LIMIT_MODULE
 #  pre-initialization
 uint8 E_LIMIT_GPSLOCK = 1

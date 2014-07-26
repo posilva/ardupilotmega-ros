@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1048500>
+# Automatically Generated in <function get_timestamp at 0x2594500>
 # ENUM: E_LIMITS_STATE
 #  pre-initialization
 uint8 E_LIMITS_INIT = 0

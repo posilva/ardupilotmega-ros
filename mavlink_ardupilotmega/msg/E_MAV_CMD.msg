@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1048500>
+# Automatically Generated in <function get_timestamp at 0x2594500>
 # ENUM: E_MAV_CMD
 # Mission command to configure an on-board camera controller system.
 uint8 E_MAV_CMD_DO_DIGICAM_CONFIGURE = 202

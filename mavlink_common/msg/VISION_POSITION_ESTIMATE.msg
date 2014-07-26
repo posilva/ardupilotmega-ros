@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.861577
+# Automatically Generated in 2014-07-26 23:33:28.272814
 # MESSAGE: VISION_POSITION_ESTIMATE
 uint8 ID = 102
 uint8 sysid

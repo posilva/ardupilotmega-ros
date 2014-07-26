@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.860786
+# Automatically Generated in 2014-07-26 23:33:28.271874
 # MESSAGE: NAV_CONTROLLER_OUTPUT
 # Description:Outputs of the APM navigation controller. The primary use of this message is to check the response and signs of the controller before actual flight and to assist with tuning controller parameters.
 uint8 ID = 62

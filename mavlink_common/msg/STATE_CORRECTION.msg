@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.860875
+# Automatically Generated in 2014-07-26 23:33:28.271984
 # MESSAGE: STATE_CORRECTION
 # Description:Corrects the systems state by adding an error correction term to the position and velocity, and by rotating the attitude by a correction angle.
 uint8 ID = 64

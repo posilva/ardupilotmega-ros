@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 21:31:17.876499
+# Automatically Generated in 2014-07-26 23:33:28.275221
 # MESSAGE: MOUNT_CONTROL
 # Description:Message to control a camera mount, directional antenna, etc.
 uint8 ID = 157
