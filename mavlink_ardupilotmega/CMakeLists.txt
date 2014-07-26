@@ -61,6 +61,12 @@ include_directories(
     add_executable(mavlink_ardupilotmega_node src/mavlink_ardupilotmega_node.cpp)
     target_link_libraries(mavlink_ardupilotmega_node ${catkin_LIBRARIES})
     add_dependencies(mavlink_ardupilotmega_node  mavlink_ardupilotmega_generate_messages_cpp)
+    
+install(TARGETS mavlink_ardupilotmega_node
+  ARCHIVE DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
+  LIBRARY DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
+  RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+)
 
 
 install(DIRECTORY include/${PROJECT_NAME}/

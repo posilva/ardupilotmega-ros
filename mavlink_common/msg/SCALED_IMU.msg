@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.534853
+# Automatically Generated in 2014-07-26 21:31:17.859221
 # MESSAGE: SCALED_IMU
 # Description:The RAW IMU readings for the usual 9DOF sensor setup. This message should contain the scaled values to the described units
 uint8 ID = 26

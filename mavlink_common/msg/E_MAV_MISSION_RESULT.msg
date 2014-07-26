@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1ce4500>
+# Automatically Generated in <function get_timestamp at 0x1048500>
 # ENUM: E_MAV_MISSION_RESULT
 # Description:result in a mavlink mission ack
 # mission accepted OK

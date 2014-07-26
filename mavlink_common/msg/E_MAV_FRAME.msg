@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1ce4500>
+# Automatically Generated in <function get_timestamp at 0x1048500>
 # ENUM: E_MAV_FRAME
 # Global coordinate frame, WGS84 coordinate system. First value / x: latitude, second value / y: longitude, third value / z: positive altitude over mean sea level (MSL)
 uint8 E_MAV_FRAME_GLOBAL = 0

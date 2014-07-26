@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1ce4500>
+# Automatically Generated in <function get_timestamp at 0x1048500>
 # ENUM: E_MAV_MOUNT_MODE
 # Description:Enumeration of possible mount operation modes
 # Load and keep safe position (Roll,Pitch,Yaw) from EEPROM and stop stabilization

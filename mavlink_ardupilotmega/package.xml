@@ -3,7 +3,7 @@
     <name>mavlink_ardupilotmega</name>
     <version>0.1.8</version>
     <description>Mavlink generated messages for package mavlink_ardupilotmega</description>
-    <maintainer email="posilva@academiafa.edu.pt">Pedro Marque da Silva</maintainer>
+    <maintainer email="posilva@gmail.com">Pedro Marque da Silva</maintainer>
     <license>MIT</license>
     
     <author email="posilva@academiafa.edu.pt">Pedro Marques da Silva</author>

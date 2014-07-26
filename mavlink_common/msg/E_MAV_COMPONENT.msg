@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1ce4500>
+# Automatically Generated in <function get_timestamp at 0x1048500>
 # ENUM: E_MAV_COMPONENT
 uint8 E_MAV_COMP_ID_ALL = 0
 uint8 E_MAV_COMP_ID_GPS = 220

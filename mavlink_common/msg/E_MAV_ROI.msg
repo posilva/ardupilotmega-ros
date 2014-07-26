@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1ce4500>
+# Automatically Generated in <function get_timestamp at 0x1048500>
 # ENUM: E_MAV_ROI
 # Description: The ROI (region of interest) for the vehicle. This can be
 #                be used by the vehicle for camera/vehicle attitude alignment (see

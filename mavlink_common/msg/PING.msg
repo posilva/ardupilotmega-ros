@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.534479
+# Automatically Generated in 2014-07-26 21:31:17.858738
 # MESSAGE: PING
 # Description:A ping message either requesting or responding to a ping. This allows to measure the system latencies, including serial port, radio modem and UDP connections.
 uint8 ID = 4

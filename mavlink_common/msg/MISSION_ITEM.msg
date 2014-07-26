@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.535250
+# Automatically Generated in 2014-07-26 21:31:17.859828
 # MESSAGE: MISSION_ITEM
 # Description:Message encoding a mission item. This message is emitted to announce
 #                the presence of a mission item and to set a mission item on the system. The mission item can be either in x, y, z meters (type: LOCAL) or x:lat, y:lon, z:altitude. Local frame is Z-down, right handed (NED), global frame is Z-up, right handed (ENU). See also http://qgroundcontrol.org/mavlink/waypoint_protocol.

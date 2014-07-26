@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1ce4500>
+# Automatically Generated in <function get_timestamp at 0x1048500>
 # ENUM: E_MAVLINK_DATA_STREAM_TYPE
 uint8 E_MAVLINK_DATA_STREAM_IMG_JPEG = 1
 uint8 E_MAVLINK_DATA_STREAM_IMG_BMP = 2

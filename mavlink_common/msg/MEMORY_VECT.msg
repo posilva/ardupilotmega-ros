@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.537559
+# Automatically Generated in 2014-07-26 21:31:17.862013
 # MESSAGE: MEMORY_VECT
 # Description:Send raw controller memory. The use of this message is discouraged for normal packets, but a quite efficient way for testing new messages and getting experimental debug output.
 uint8 ID = 249

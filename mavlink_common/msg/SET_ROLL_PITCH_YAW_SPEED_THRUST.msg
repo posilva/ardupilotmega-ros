@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.536038
+# Automatically Generated in 2014-07-26 21:31:17.860576
 # MESSAGE: SET_ROLL_PITCH_YAW_SPEED_THRUST
 # Description:Set roll, pitch and yaw.
 uint8 ID = 57

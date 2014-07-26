@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.536726
+# Automatically Generated in 2014-07-26 21:31:17.861307
 # MESSAGE: LOCAL_POSITION_NED_SYSTEM_GLOBAL_OFFSET
 # Description:The offset in X, Y, Z and yaw between the LOCAL_POSITION_NED messages of MAV X and the global coordinate frame in NED coordinates. Coordinate frame is right-handed, Z-axis down (aeronautical frame, NED / north-east-down convention)
 uint8 ID = 89

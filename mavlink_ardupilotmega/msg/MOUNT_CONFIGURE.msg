@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.539567
+# Automatically Generated in 2014-07-26 21:31:17.876455
 # MESSAGE: MOUNT_CONFIGURE
 # Description:Message to configure a camera mount, directional antenna, etc.
 uint8 ID = 156

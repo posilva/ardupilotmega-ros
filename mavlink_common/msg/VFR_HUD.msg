@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.536526
+# Automatically Generated in 2014-07-26 21:31:17.861089
 # MESSAGE: VFR_HUD
 # Description:Metrics typically displayed on a HUD for fixed wing aircraft
 uint8 ID = 74

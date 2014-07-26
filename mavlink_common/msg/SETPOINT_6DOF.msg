@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.537485
+# Automatically Generated in 2014-07-26 21:31:17.861971
 # MESSAGE: SETPOINT_6DOF
 # Description:Set the 6 DOF setpoint for a attitude and position controller.
 uint8 ID = 149

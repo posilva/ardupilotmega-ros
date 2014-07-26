@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1ce4500>
+# Automatically Generated in <function get_timestamp at 0x1048500>
 # ENUM: E_MAV_MODE
 # Description:These defines are predefined OR-combined mode flags. There is no need to use values from this enum, but it
 #               simplifies the use of the mode flags. Note that manual input is enabled in all modes as a safety override.

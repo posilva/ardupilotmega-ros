@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.536686
+# Automatically Generated in 2014-07-26 21:31:17.861264
 # MESSAGE: MANUAL_SETPOINT
 # Description:Setpoint in roll, pitch, yaw and thrust from the operator
 uint8 ID = 81

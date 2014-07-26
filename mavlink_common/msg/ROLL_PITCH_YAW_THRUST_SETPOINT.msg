@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.536078
+# Automatically Generated in 2014-07-26 21:31:17.860618
 # MESSAGE: ROLL_PITCH_YAW_THRUST_SETPOINT
 # Description:Setpoint in roll, pitch, yaw currently active on the system.
 uint8 ID = 58

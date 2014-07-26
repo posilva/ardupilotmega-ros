@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.534515
+# Automatically Generated in 2014-07-26 21:31:17.858784
 # MESSAGE: CHANGE_OPERATOR_CONTROL
 # Description:Request to control this MAV
 uint8 ID = 5

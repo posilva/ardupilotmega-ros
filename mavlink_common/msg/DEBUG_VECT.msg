@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.537627
+# Automatically Generated in 2014-07-26 21:31:17.862055
 # MESSAGE: DEBUG_VECT
 uint8 ID = 250
 uint8 sysid

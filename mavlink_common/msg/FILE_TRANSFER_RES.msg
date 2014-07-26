@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.537332
+# Automatically Generated in 2014-07-26 21:31:17.861839
 # MESSAGE: FILE_TRANSFER_RES
 # Description:File transfer result
 uint8 ID = 112

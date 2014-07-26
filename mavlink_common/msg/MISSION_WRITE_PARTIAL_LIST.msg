@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.535223
+# Automatically Generated in 2014-07-26 21:31:17.859787
 # MESSAGE: MISSION_WRITE_PARTIAL_LIST
 # Description:This message is sent to the MAV to write a partial list. If start index == end index, only one item will be transmitted / updated. If the start index is NOT 0 and above the current list size, this request should be REJECTED!
 uint8 ID = 38

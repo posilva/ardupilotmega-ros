@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.535073
+# Automatically Generated in 2014-07-26 21:31:17.859528
 # MESSAGE: GLOBAL_POSITION_INT
 # Description:The filtered global position (e.g. fused GPS and accelerometers). The position is in GPS-frame (right-handed, Z-up). It
 #               is designed as scaled integer message since the resolution of float is not sufficient.

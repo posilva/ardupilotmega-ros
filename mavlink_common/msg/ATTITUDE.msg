@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.534987
+# Automatically Generated in 2014-07-26 21:31:17.859399
 # MESSAGE: ATTITUDE
 # Description:The attitude in the aeronautical frame (right-handed, Z-down, X-front, Y-right).
 uint8 ID = 30

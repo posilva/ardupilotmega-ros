@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.536766
+# Automatically Generated in 2014-07-26 21:31:17.861350
 # MESSAGE: HIL_STATE
 # Description:Sent from simulation to autopilot. This packet is useful for high throughput applications such as hardware in the loop simulations.
 uint8 ID = 90

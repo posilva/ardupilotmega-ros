@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1ce4500>
+# Automatically Generated in <function get_timestamp at 0x1048500>
 # ENUM: E_MAV_STATE
 # Uninitialized system, state is unknown.
 uint8 E_MAV_STATE_UNINIT = 0

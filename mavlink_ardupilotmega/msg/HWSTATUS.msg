@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.539954
+# Automatically Generated in 2014-07-26 21:31:17.876807
 # MESSAGE: HWSTATUS
 # Description:Status of key hardware
 uint8 ID = 165

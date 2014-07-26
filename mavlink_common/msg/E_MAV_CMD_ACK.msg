@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1ce4500>
+# Automatically Generated in <function get_timestamp at 0x1048500>
 # ENUM: E_MAV_CMD_ACK
 # Description:ACK / NACK / ERROR values as a result of MAV_CMDs and for mission item transmission.
 # Command / mission item is ok.

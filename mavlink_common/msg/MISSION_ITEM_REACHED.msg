@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.535518
+# Automatically Generated in 2014-07-26 21:31:17.860115
 # MESSAGE: MISSION_ITEM_REACHED
 # Description:A certain mission item has been reached. The system will either hold this position (or circle on the orbit) or (if the autocontinue on the WP was set) continue to the next MISSION.
 uint8 ID = 46

@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1ce4500>
+# Automatically Generated in <function get_timestamp at 0x1048500>
 # ENUM: E_MAV_PARAM_TYPE
 # Description:Specifies the datatype of a MAVLink parameter.
 # 8-bit unsigned integer

@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.536445
+# Automatically Generated in 2014-07-26 21:31:17.861001
 # MESSAGE: MANUAL_CONTROL
 # Description:This message provides an API for manually controlling the vehicle using standard joystick axes nomenclature, along with a joystick-like input device. Unused axes can be disabled an buttons are also transmit as boolean values of their 
 uint8 ID = 69

@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.539456
+# Automatically Generated in 2014-07-26 21:31:17.876359
 # MESSAGE: DIGICAM_CONFIGURE
 # Description:Configure on-board Camera Control System.
 uint8 ID = 154

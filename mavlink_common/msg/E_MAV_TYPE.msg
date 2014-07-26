@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x1ce4500>
+# Automatically Generated in <function get_timestamp at 0x1048500>
 # ENUM: E_MAV_TYPE
 # Generic micro air vehicle.
 uint8 E_MAV_TYPE_GENERIC = 0

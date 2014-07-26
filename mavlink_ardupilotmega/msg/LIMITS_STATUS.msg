@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-25 12:49:55.540044
+# Automatically Generated in 2014-07-26 21:31:17.876892
 # MESSAGE: LIMITS_STATUS
 # Description:Status of AP_Limits. Sent in extended
 #	    status stream when AP_Limits is enabled
