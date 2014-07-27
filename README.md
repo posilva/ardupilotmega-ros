@@ -18,3 +18,16 @@ If you are in a deb based distro you can run this script (https://bitbucket.org/
 7. Run mavlink_device_node.py node ( you must source your setup.bash to load ROS environment variables)
 8. Execute "rosrun mavlink_ardupilotmega mavlink_ardupilotmega_node" 
 9. Open a shell and execute "rostopic echo /from_mav_heartbeat" ( you must source your setup.bash to load ROS environment variables)
+
+# New Installation mode
+This is a automated and integrated installation (for deb distros: tested on debian stable/testinf and ubuntu 14.04) of a minimal ROS environment with this package installed 
+
+1. git clone https://bitbucket.org/pmosilva/rosfs
+2. cd rosfs
+3. ./ros_install.sh $PWD/ardupilotmega
+4. source $PWD/ardupilotmega/sysroot/opt/ros/hydro/setup.bash
+5. launch master in background: roscore &
+6. rosrun mavlink_ardupilotmega mavlink_ardupilotmega_node
+7. In other shell source the same setup.bash file and execute: rostopic list
+
+At this point you will see all the topics to handle mavlink messages for ardupilotmega
