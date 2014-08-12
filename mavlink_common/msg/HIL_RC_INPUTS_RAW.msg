@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.272655
+# Automatically Generated in 2014-08-12 13:24:39.910042
 # MESSAGE: HIL_RC_INPUTS_RAW
 # Description:Sent from simulation to autopilot. The RAW values of the RC channels received. The standard PPM modulation is as follows: 1000 microseconds: 0%, 2000 microseconds: 100%. Individual receivers/transmitters might violate this specification.
 uint8 ID = 92

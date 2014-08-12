@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.273173
+# Automatically Generated in 2014-08-12 13:24:39.910704
 # MESSAGE: BATTERY_STATUS
 # Description:Transmitte battery informations for a accu pack.
 uint8 ID = 147

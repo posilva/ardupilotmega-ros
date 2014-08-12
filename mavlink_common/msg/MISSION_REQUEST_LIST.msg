@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.270897
+# Automatically Generated in 2014-08-12 13:24:39.908058
 # MESSAGE: MISSION_REQUEST_LIST
 # Description:Request the overall list of mission items from the system/component.
 uint8 ID = 43

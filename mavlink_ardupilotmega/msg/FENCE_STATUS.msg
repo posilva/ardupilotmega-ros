@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.275436
+# Automatically Generated in 2014-08-12 13:24:39.913811
 # MESSAGE: FENCE_STATUS
 # Description:Status of geo-fencing. Sent in extended
 #	    status stream when fencing enabled

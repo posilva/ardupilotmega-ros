@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.269792
+# Automatically Generated in 2014-08-12 13:24:39.906679
 # MESSAGE: PARAM_VALUE
 # Description:Emit the value of a onboard parameter. The inclusion of param_count and param_index in the message allows the recipient to keep track of received parameters and allows him to re-request missing parameters after a loss or timeout.
 uint8 ID = 22

@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x2594500>
+# Automatically Generated in <function get_timestamp at 0x2710500>
 # ENUM: E_MAV_AUTOPILOT
 # Description:Micro air vehicle / autopilot classes. This identifies the individual model.
 # Generic autopilot, full support for everything

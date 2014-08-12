@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.269346
+# Automatically Generated in 2014-08-12 13:24:39.906048
 # MESSAGE: SYSTEM_TIME
 # Description:The system time is the time of the master clock, typically the computer clock of the main onboard computer.
 uint8 ID = 2

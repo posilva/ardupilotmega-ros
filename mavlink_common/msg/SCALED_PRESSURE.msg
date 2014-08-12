@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.270167
+# Automatically Generated in 2014-08-12 13:24:39.907209
 # MESSAGE: SCALED_PRESSURE
 # Description:The pressure readings for the typical setup of one absolute and differential pressure sensor. The units are as specified in each field.
 uint8 ID = 29

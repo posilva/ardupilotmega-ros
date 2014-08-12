@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.270061
+# Automatically Generated in 2014-08-12 13:24:39.907020
 # MESSAGE: RAW_IMU
 # Description:The RAW IMU readings for the usual 9DOF sensor setup. This message should always contain the true raw values without any scaling to allow data capture and system debugging.
 uint8 ID = 27

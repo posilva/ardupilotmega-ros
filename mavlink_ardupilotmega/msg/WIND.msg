@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.275761
+# Automatically Generated in 2014-08-12 13:24:39.914157
 # MESSAGE: WIND
 # Description:Wind estimation
 uint8 ID = 168

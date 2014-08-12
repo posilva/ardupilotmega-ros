@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.272290
+# Automatically Generated in 2014-08-12 13:24:39.909627
 # MESSAGE: COMMAND_LONG
 # Description:Send a command with up to four parameters to the MAV
 uint8 ID = 76

@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.274825
+# Automatically Generated in 2014-08-12 13:24:39.913034
 # MESSAGE: SENSOR_OFFSETS
 # Description:Offsets and calibrations values for hardware
 #        sensors. This makes it easier to debug the calibration process.

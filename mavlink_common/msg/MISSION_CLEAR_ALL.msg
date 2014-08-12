@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.270994
+# Automatically Generated in 2014-08-12 13:24:39.908168
 # MESSAGE: MISSION_CLEAR_ALL
 # Description:Delete all mission items at once.
 uint8 ID = 45

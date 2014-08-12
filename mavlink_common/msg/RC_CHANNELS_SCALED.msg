@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.270430
+# Automatically Generated in 2014-08-12 13:24:39.907536
 # MESSAGE: RC_CHANNELS_SCALED
 # Description:The scaled values of the RC channels received. (-100%) -10000, (0%) 0, (100%) 10000. Channels that are inactive should be set to 65535.
 uint8 ID = 34

@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.271236
+# Automatically Generated in 2014-08-12 13:24:39.908443
 # MESSAGE: SET_LOCAL_POSITION_SETPOINT
 # Description:Set the setpoint for a local position controller. This is the position in local coordinates the MAV should fly to. This message is sent by the path/MISSION planner to the onboard position controller. As some MAVs have a degree of freedom in yaw (e.g. all helicopters/quadrotors), the desired yaw angle is part of the message.
 uint8 ID = 50

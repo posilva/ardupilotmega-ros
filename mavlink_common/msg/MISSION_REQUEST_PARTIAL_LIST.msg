@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.270596
+# Automatically Generated in 2014-08-12 13:24:39.907713
 # MESSAGE: MISSION_REQUEST_PARTIAL_LIST
 # Description:Request a partial list of mission items from the system/component. http://qgroundcontrol.org/mavlink/waypoint_protocol. If start and end index are the same, just send one waypoint.
 uint8 ID = 37

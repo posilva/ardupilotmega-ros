@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.271089
+# Automatically Generated in 2014-08-12 13:24:39.908276
 # MESSAGE: MISSION_ACK
 # Description:Ack message during MISSION handling. The type field states if this message is a positive ack (type=0) or if an error happened (type=non-zero).
 uint8 ID = 47

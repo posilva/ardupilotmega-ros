@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.272865
+# Automatically Generated in 2014-08-12 13:24:39.910355
 # MESSAGE: VISION_SPEED_ESTIMATE
 uint8 ID = 103
 uint8 sysid

@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.271387
+# Automatically Generated in 2014-08-12 13:24:39.908613
 # MESSAGE: SET_GLOBAL_POSITION_SETPOINT_INT
 # Description:Set the current global position setpoint.
 uint8 ID = 53

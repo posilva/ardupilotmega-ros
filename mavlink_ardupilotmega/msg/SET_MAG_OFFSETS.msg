@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.274894
+# Automatically Generated in 2014-08-12 13:24:39.913142
 # MESSAGE: SET_MAG_OFFSETS
 # Description:set the magnetometer offsets
 uint8 ID = 151

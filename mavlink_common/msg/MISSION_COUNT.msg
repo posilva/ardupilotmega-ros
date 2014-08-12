@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.270946
+# Automatically Generated in 2014-08-12 13:24:39.908113
 # MESSAGE: MISSION_COUNT
 # Description:This message is emitted as response to MISSION_REQUEST_LIST by the MAV and to initiate a write transaction. The GCS can then request the individual mission item based on the knowledge of the total number of MISSIONs.
 uint8 ID = 44

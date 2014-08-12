@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.275387
+# Automatically Generated in 2014-08-12 13:24:39.913756
 # MESSAGE: FENCE_FETCH_POINT
 # Description:Request a current fence point from MAV
 uint8 ID = 161

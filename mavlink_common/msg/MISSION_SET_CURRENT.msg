@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.270801
+# Automatically Generated in 2014-08-12 13:24:39.907949
 # MESSAGE: MISSION_SET_CURRENT
 # Description:Set the mission item with sequence number seq as current item. This means that the MAV will continue to this mission item on the shortest path (not following the mission items in-between).
 uint8 ID = 41

@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.271494
+# Automatically Generated in 2014-08-12 13:24:39.908732
 # MESSAGE: SAFETY_ALLOWED_AREA
 # Description:Read out the safety zone the MAV currently assumes.
 uint8 ID = 55

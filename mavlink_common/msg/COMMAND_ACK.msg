@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.272345
+# Automatically Generated in 2014-08-12 13:24:39.909689
 # MESSAGE: COMMAND_ACK
 # Description:Report status of a command. Includes feedback wether the command was executed.
 uint8 ID = 77

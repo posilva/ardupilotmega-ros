@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x2594500>
+# Automatically Generated in <function get_timestamp at 0x2710500>
 # ENUM: E_MAV_DATA_STREAM
 # Description:Data stream IDs. A data stream is not a fixed set of messages, but rather a
 #     recommendation to the autopilot software. Individual autopilots may or may not obey

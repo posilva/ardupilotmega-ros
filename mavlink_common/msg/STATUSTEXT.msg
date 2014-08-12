@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.273528
+# Automatically Generated in 2014-08-12 13:24:39.911102
 # MESSAGE: STATUSTEXT
 # Description:Status text message. These messages are printed in yellow in the COMM console of QGroundControl. WARNING: They consume quite some bandwidth, so use only for important status and error messages. If implemented wisely, these messages are buffered on the MCU and sent only at a limited rate (e.g. 10 Hz).
 uint8 ID = 253

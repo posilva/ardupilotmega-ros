@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.271926
+# Automatically Generated in 2014-08-12 13:24:39.909219
 # MESSAGE: SET_QUAD_SWARM_LED_ROLL_PITCH_YAW_THRUST
 # Description:Setpoint for up to four quadrotors in a group / wing
 uint8 ID = 63

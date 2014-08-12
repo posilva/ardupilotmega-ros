@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.269954
+# Automatically Generated in 2014-08-12 13:24:39.906861
 # MESSAGE: GPS_STATUS
 # Description:The positioning status, as reported by GPS. This message is intended to display status information about each satellite visible to the receiver. See message GLOBAL_POSITION for the global position estimate. This message can contain information for up to 20 satellites.
 uint8 ID = 25

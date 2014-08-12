@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.270270
+# Automatically Generated in 2014-08-12 13:24:39.907357
 # MESSAGE: ATTITUDE_QUATERNION
 # Description:The attitude in the aeronautical frame (right-handed, Z-down, X-front, Y-right), expressed as quaternion.
 uint8 ID = 31

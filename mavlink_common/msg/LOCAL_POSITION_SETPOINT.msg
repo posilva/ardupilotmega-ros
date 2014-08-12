@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.271288
+# Automatically Generated in 2014-08-12 13:24:39.908501
 # MESSAGE: LOCAL_POSITION_SETPOINT
 # Description:Transmit the current local setpoint of the controller to other MAVs (collision avoidance) and to the GCS.
 uint8 ID = 51

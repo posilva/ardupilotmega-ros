@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.275110
+# Automatically Generated in 2014-08-12 13:24:39.913464
 # MESSAGE: DIGICAM_CONTROL
 # Description:Control on-board Camera Control System to take shots.
 uint8 ID = 155

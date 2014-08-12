@@ -1,4 +1,4 @@
-# Automatically Generated in <function get_timestamp at 0x2594500>
+# Automatically Generated in <function get_timestamp at 0x2710500>
 # ENUM: E_MAV_RESULT
 # Description:result from a mavlink command
 # Command ACCEPTED and EXECUTED

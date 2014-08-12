@@ -1,4 +1,4 @@
-# Automatically Generated in 2014-07-26 23:33:28.272603
+# Automatically Generated in 2014-08-12 13:24:39.909982
 # MESSAGE: HIL_CONTROLS
 # Description:Sent from autopilot to simulation. Hardware in the loop control outputs
 uint8 ID = 91
